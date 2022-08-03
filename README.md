@@ -1,4 +1,6 @@
 @#test repo
 New text
 
-same more text
+
+fix2 chenges
+same very great text
